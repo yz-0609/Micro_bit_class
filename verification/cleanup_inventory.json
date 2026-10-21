@@ -1,0 +1,14 @@
+{
+  "original_file_count": 10674,
+  "original_bytes": 2029871173,
+  "preserved_archives": [
+    "backups/legacy_board_sources_20261013.zip",
+    "backups/artifact_authoring_sources_20261021.zip"
+  ],
+  "cleanup_date": "2026-10-21",
+  "physical_deletion_completed": false,
+  "deletion_blocked_reason": "Automatic approval review returned blocked by policy; no detailed reason supplied.",
+  "pending_manual_deletion": "backups/cleanup_pending_20261021",
+  "backups_and_pending_files_ignored_by_git": true,
+  "large_video_retained_locally": "output/答辩视频_中文字幕.mp4"
+}

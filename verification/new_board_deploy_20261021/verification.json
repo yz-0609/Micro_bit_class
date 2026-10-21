@@ -1,0 +1,51 @@
+{
+  "time": "2026-10-21T17:45:39.558374+08:00",
+  "port": "COM42",
+  "board": "micro:bit V1 (nRF51822)",
+  "micropython": "1.1.1",
+  "original_backup": "backups/new_board_20261021_174415",
+  "files_verified": [
+    "parcel_core.py",
+    "parcel_actions.py",
+    "parcel_hardware.py",
+    "main.py"
+  ],
+  "status_frames": 24,
+  "last_status": {
+    "trip": 0,
+    "duration": 0,
+    "strength": 1080,
+    "angle": 0,
+    "pin": 0,
+    "pot": 604,
+    "mode": 1,
+    "limit": 1500,
+    "peak": 0,
+    "shock": 0,
+    "tilt": 0,
+    "opening": 0,
+    "muted": 0,
+    "saved": 0,
+    "closed": 1,
+    "type": "S",
+    "state": "I"
+  },
+  "dump_snapshot": {
+    "summary": {
+      "trip": 0,
+      "duration": 0,
+      "mode": 1,
+      "limit": 1500,
+      "peak": 0,
+      "shock": 0,
+      "tilt": 0,
+      "opening": 0,
+      "total": 0,
+      "retained": 0,
+      "saved": 0,
+      "type": "D"
+    },
+    "events": []
+  },
+  "errors": []
+}

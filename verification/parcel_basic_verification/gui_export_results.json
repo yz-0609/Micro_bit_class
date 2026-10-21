@@ -1,0 +1,27 @@
+{
+  "live_status_and_snapshot": true,
+  "mute_command": true,
+  "sound_restore_command": true,
+  "gui_export_csv_and_json": true,
+  "test_data_only": true,
+  "status": {
+    "trip": 1,
+    "duration": 3800,
+    "strength": 1088,
+    "angle": 0,
+    "pin": 0,
+    "pot": 1023,
+    "mode": 1,
+    "limit": 1500,
+    "peak": 1800,
+    "shock": 1,
+    "tilt": 1,
+    "opening": 41,
+    "muted": 0,
+    "saved": 0,
+    "closed": 1,
+    "type": "S",
+    "state": "V"
+  },
+  "all_passed": true
+}

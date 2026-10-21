@@ -1,0 +1,30 @@
+# Local recovery archives and files pending manual deletion.
+/backups/
+
+# Python environments and caches.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Temporary builds, downloaded models and machine settings.
+/tmp/
+/build/
+/dist/
+.idea/
+.vscode/
+.env
+.env.*
+!.env.example
+Thumbs.db
+Desktop.ini
+
+# Large local media and recordings exported during use.
+*.mp4
+*.wav
+*.whl
+/output/*.csv
+/output/*.json

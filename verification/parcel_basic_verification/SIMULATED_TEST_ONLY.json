@@ -1,0 +1,146 @@
+{
+  "summary": {
+    "trip": 1,
+    "duration": 3800,
+    "mode": 1,
+    "limit": 1500,
+    "peak": 1800,
+    "shock": 1,
+    "tilt": 1,
+    "opening": 41,
+    "total": 43,
+    "retained": 16,
+    "saved": 0,
+    "type": "D"
+  },
+  "events": [
+    {
+      "type": "R",
+      "trip": 1,
+      "id": 28,
+      "elapsed": 2824,
+      "kind": "O",
+      "value": 0
+    },
+    {
+      "type": "R",
+      "trip": 1,
+      "id": 29,
+      "elapsed": 2825,
+      "kind": "O",
+      "value": 0
+    },
+    {
+      "type": "R",
+      "trip": 1,
+      "id": 30,
+      "elapsed": 2826,
+      "kind": "O",
+      "value": 0
+    },
+    {
+      "type": "R",
+      "trip": 1,
+      "id": 31,
+      "elapsed": 2827,
+      "kind": "O",
+      "value": 0
+    },
+    {
+      "type": "R",
+      "trip": 1,
+      "id": 32,
+      "elapsed": 2828,
+      "kind": "O",
+      "value": 0
+    },
+    {
+      "type": "R",
+      "trip": 1,
+      "id": 33,
+      "elapsed": 2829,
+      "kind": "O",
+      "value": 0
+    },
+    {
+      "type": "R",
+      "trip": 1,
+      "id": 34,
+      "elapsed": 2830,
+      "kind": "O",
+      "value": 0
+    },
+    {
+      "type": "R",
+      "trip": 1,
+      "id": 35,
+      "elapsed": 2831,
+      "kind": "O",
+      "value": 0
+    },
+    {
+      "type": "R",
+      "trip": 1,
+      "id": 36,
+      "elapsed": 2832,
+      "kind": "O",
+      "value": 0
+    },
+    {
+      "type": "R",
+      "trip": 1,
+      "id": 37,
+      "elapsed": 2833,
+      "kind": "O",
+      "value": 0
+    },
+    {
+      "type": "R",
+      "trip": 1,
+      "id": 38,
+      "elapsed": 2834,
+      "kind": "O",
+      "value": 0
+    },
+    {
+      "type": "R",
+      "trip": 1,
+      "id": 39,
+      "elapsed": 2835,
+      "kind": "O",
+      "value": 0
+    },
+    {
+      "type": "R",
+      "trip": 1,
+      "id": 40,
+      "elapsed": 2836,
+      "kind": "O",
+      "value": 0
+    },
+    {
+      "type": "R",
+      "trip": 1,
+      "id": 41,
+      "elapsed": 2837,
+      "kind": "O",
+      "value": 0
+    },
+    {
+      "type": "R",
+      "trip": 1,
+      "id": 42,
+      "elapsed": 2838,
+      "kind": "O",
+      "value": 0
+    },
+    {
+      "type": "R",
+      "trip": 1,
+      "id": 43,
+      "elapsed": 2839,
+      "kind": "O",
+      "value": 0
+    }
+  ]
+}

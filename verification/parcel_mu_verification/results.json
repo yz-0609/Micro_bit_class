@@ -1,0 +1,13 @@
+{
+  "file": "D:\\Users\\lenovo\\Desktop\\micro_py\\firmware\\parcel_mu.py",
+  "bytes": 6249,
+  "checks": [
+    "Recorder_identical",
+    "command_identical",
+    "run_identical",
+    "only_builtin_imports",
+    "existing_recorder_tests_passed_8",
+    "installed_mu_1_2_0_script_and_hex_packaging_passed"
+  ],
+  "hardware_test": "not_run_no_board_connected"
+}

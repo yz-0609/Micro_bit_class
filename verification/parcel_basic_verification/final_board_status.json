@@ -1,0 +1,27 @@
+{
+  "readback": {
+    "parcel_actions.py": "111ffffa28b8d9a7214d95fc4750e82426bf9972733af23f427f9f2c3673e440",
+    "parcel_core.py": "24350a789c3393a1b2dcdab996db44900250432ec401aca733641bc59fe30371",
+    "parcel_hardware.py": "d598da0025a43401452d6b7b657e0a26ebade6b8b643219b9e6420b8b3c50259"
+  },
+  "clean_idle_confirmed": true,
+  "last_status": {
+    "trip": 0,
+    "duration": 0,
+    "strength": 1072,
+    "angle": 0,
+    "pin": 0,
+    "pot": 1023,
+    "mode": 1,
+    "limit": 1500,
+    "peak": 0,
+    "shock": 0,
+    "tilt": 0,
+    "opening": 0,
+    "muted": 0,
+    "saved": 0,
+    "closed": 1,
+    "type": "S",
+    "state": "I"
+  }
+}

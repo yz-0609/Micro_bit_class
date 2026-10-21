@@ -1,0 +1,19 @@
+* text=auto
+.gitignore text eol=lf
+.gitattributes text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+*.csv text eol=lf
+*.srt text eol=lf
+*.hex text eol=lf
+*.cmd text eol=crlf
+*.pdf binary
+*.docx binary
+*.zip binary
+*.mp4 binary
+# Keep vendored files and historical raw serial captures byte-for-byte.
+host/vendor/** -text -whitespace
+verification/**/serial_log.txt -text -whitespace
+verification/**/full_buffer_real_sensor_soak.txt -text -whitespace

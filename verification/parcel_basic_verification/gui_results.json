@@ -1,0 +1,25 @@
+{
+  "live_status_and_empty_snapshot": true,
+  "mute_command": true,
+  "sound_restore_command": true,
+  "status": {
+    "trip": 0,
+    "duration": 0,
+    "strength": 1088,
+    "angle": 0,
+    "pin": 0,
+    "pot": 1023,
+    "mode": 1,
+    "limit": 1500,
+    "peak": 0,
+    "shock": 0,
+    "tilt": 0,
+    "opening": 0,
+    "muted": 0,
+    "saved": 0,
+    "closed": 1,
+    "type": "S",
+    "state": "I"
+  },
+  "all_passed": true
+}
